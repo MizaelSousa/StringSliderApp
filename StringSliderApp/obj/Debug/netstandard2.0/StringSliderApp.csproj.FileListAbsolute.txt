@@ -1,0 +1,13 @@
+/Users/aluno/Projects/StringSliderApp/StringSliderApp/bin/Debug/netstandard2.0/StringSliderApp.deps.json
+/Users/aluno/Projects/StringSliderApp/StringSliderApp/bin/Debug/netstandard2.0/StringSliderApp.dll
+/Users/aluno/Projects/StringSliderApp/StringSliderApp/bin/Debug/netstandard2.0/StringSliderApp.pdb
+/Users/aluno/Projects/StringSliderApp/StringSliderApp/obj/Debug/netstandard2.0/StringSliderApp.csprojAssemblyReference.cache
+/Users/aluno/Projects/StringSliderApp/StringSliderApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/StringSliderApp/StringSliderApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/StringSliderApp/StringSliderApp/obj/Debug/netstandard2.0/PageTwo.xaml.g.cs
+/Users/aluno/Projects/StringSliderApp/StringSliderApp/obj/Debug/netstandard2.0/StringSliderApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/StringSliderApp/StringSliderApp/obj/Debug/netstandard2.0/StringSliderApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/StringSliderApp/StringSliderApp/obj/Debug/netstandard2.0/StringSliderApp.AssemblyInfo.cs
+/Users/aluno/Projects/StringSliderApp/StringSliderApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/StringSliderApp/StringSliderApp/obj/Debug/netstandard2.0/StringSliderApp.dll
+/Users/aluno/Projects/StringSliderApp/StringSliderApp/obj/Debug/netstandard2.0/StringSliderApp.pdb
